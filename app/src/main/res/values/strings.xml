@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AR Pahlawan Nasional</string>
+    <string name="pahlawan_name">Nama Pahlawan</string>
+    <string name="detail1">Detail Singkat Pahlawan</string>
+    <string name="detail2">Detail Lengkap Pahlawan</string>
+    <string name="detail">Detail Singkat Pahlawan</string>
+    <string name="Welcome">Selamat Datang di ARPAN</string>
+    <string name="Welcome2">Aplikasi Augmented Reality (AR) Pahlawan Nasional Indonesia</string>
+</resources>
